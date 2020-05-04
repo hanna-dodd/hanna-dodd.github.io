@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Dosis', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,18 +14,19 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #1072CE;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 1.8em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Dosis', 'Sans-Serif';
+    font-size: 48px;
 }
-p {
-    font-size: 1em;
-    font-family: 'Work Sans', 'Arial', 'Sans-Serif';
+p, ul li {
+    font-family: 'Titillium Web', 'Sans-Serif';
+    font-size: 16px;
     line-height: 1.4em;
     color: #333;
 }
