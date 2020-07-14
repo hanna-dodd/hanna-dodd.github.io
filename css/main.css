@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
+    background-color: #5CDB95
 }
 nav ul, footer ul {
     font-family: 'Courier New', 'Sans-Serif';
@@ -14,27 +15,29 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #1072CE;
+    color: #05386B;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 1.8em;
-    font-family: 'Courier New', 'Sans-Serif';
+    font-family: 'Verdana';
     font-size: 48px;
 }
-h2 {
-    font-family: 'Courier New', 'Sans-Serif';
-}
 p, ul li {
-    font-family: 'Courier New', 'Sans-Serif';
-    font-size: 16px;
+    font-family: 'Verdana';
+    font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #EDF5E1;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #05386B;
+    font-size: .8em;
+}
+
+nav {
+	border-bottom: 1px solid #05386B;
     font-size: .8em;
 }
 
