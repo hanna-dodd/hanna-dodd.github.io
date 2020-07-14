@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 80%;
-    background-color: #5CDB95
+    background-color: #FFFFFF
 }
 nav ul, footer ul {
     font-family: 'Courier New', 'Sans-Serif';
@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #05386B;
+    color: #40A4E3;
 }
 a:hover {
     text-decoration: underline;
@@ -27,17 +27,14 @@ h1 {
 }
 p, ul li {
     font-family: 'Verdana';
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.4em;
-    color: #EDF5E1;
 }
 footer {
-    border-top: 1px solid #05386B;
-    font-size: .8em;
+    font-size: .6em;
 }
 
 nav {
-	border-bottom: 1px solid #05386B;
     font-size: .8em;
 }
 
