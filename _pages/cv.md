@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MMath in Computer Science, University of Waterloo, 2026 (expected)
+* MLIS, University of Western Ontario, 2023-2025
+  * Major Research Project: Negotiating Information in Tabletop Role-Playing Games
+* BSc in Computer Science, University of Western Ontario, 2022
+  * Thesis: Leveraging GANs in Automated Music Composition
+  * Awarded the Szilard Award for Theoretical Computer Science
 
 Work experience
 ======
