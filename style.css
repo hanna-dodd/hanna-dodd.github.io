@@ -11,7 +11,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 /**
@@ -101,9 +101,9 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(0,0,0,.8); 
+  background: rgba(255, 255, 255, 0.8); 
   padding:25px;
-  color:#FFFFFF; 
+  color:#000000; 
 }
 iframe {
   max-width:100%;
@@ -122,13 +122,13 @@ ul.main-menu li a {
   margin-right:20px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
-  color:#cfd2da;
+  color:#000000;
 }
 ul.main-menu li a:hover {
-  color:#FFFFFF;
+  color:#000000;
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:#000000;
   border-bottom-color:#EF6D3D;
 }
 
@@ -140,4 +140,20 @@ ul.main-menu li a.active {
   display:block;
 }
 
+.column {
+  float: left;
+}
 
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
